@@ -92,6 +92,7 @@
             </activation>
             <build>
                 <plugins>
+<!--
                     <plugin>
                         <groupId>org.jboss.maven.plugins</groupId>
                         <artifactId>qstools</artifactId>
@@ -129,6 +130,7 @@
                             </execution>
                         </executions>
                     </plugin>
+-->
                 </plugins>
             </build>
         </profile>
