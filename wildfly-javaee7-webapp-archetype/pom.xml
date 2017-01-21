@@ -100,7 +100,7 @@
                             <projectGitRepo>git://github.com/wildfly/quickstart.git</projectGitRepo>
                             <projectPath>kitchensink</projectPath>
                             <rootPackage>org.jboss.as.quickstarts.kitchensink</rootPackage>
-                            <branch>master</branch>
+                            <branch>origin/10.x</branch>
                             <applyPatch>cheatsheet.diff</applyPatch>
                             <archetypeExpressionReplaceValues>
                                 <archetypeExpressionReplaceValue>wildfly-kitchensink</archetypeExpressionReplaceValue>

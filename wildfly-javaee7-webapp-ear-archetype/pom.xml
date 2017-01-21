@@ -114,7 +114,7 @@
                             <projectPath>kitchensink-ear</projectPath>
                             <rootPackage>org.jboss.as.quickstarts.kitchensink_ear</rootPackage>
                             <multiModuleProject>true</multiModuleProject>
-                            <branch>master</branch>
+                            <branch>origin/10.x</branch>
                             <archetypeExpressionReplaceValues>
                                 <archetypeExpressionReplaceValue>wildfly-kitchensink-ear</archetypeExpressionReplaceValue>
                                 <archetypeExpressionReplaceValue>kitchensink-ear-quickstart</archetypeExpressionReplaceValue>
