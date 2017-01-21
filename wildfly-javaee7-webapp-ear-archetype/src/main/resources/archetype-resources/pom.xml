@@ -51,7 +51,7 @@
 
         <!-- Define the version of the JBoss BOMs we want to import to specify tested stacks. -->
         <version.jboss.bom>10.1.1.Final</version.jboss.bom>
-        <version.wildfly>9.0.0.Alpha1</version.wildfly>
+        <version.wildfly>10.1.1.Final</version.wildfly>
 
 
         <!-- other plugin versions -->
