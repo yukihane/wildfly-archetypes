@@ -10,7 +10,7 @@
         <relativePath />
     </parent>
 
-    <groupId>org.wildfly.archetype</groupId>
+    <groupId>com.github.yukihane.wildfly.archetype</groupId>
     <artifactId>wildfly-html5-mobile-archetype</artifactId>
     <version>10.1.1-SNAPSHOT</version>
     <packaging>maven-archetype</packaging>
