@@ -11,7 +11,7 @@
     </parent>
 
 
-    <groupId>com.github.yukihane.wildfly.archetype</groupId>
+    <groupId>jp.himeji-cs.wildfly.archetype</groupId>
     <artifactId>wildfly-archetypes-test</artifactId>
     <version>10.1.1-SNAPSHOT</version>
 
