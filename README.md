@@ -27,7 +27,7 @@ but others may not work correctly.
 # Usage
 
     mvn archetype:generate \
-    -DarchetypeGroupId=com.github.yukihane.wildfly.archetype \
+    -DarchetypeGroupId=jp.himeji-cs.wildfly.archetype \
     -DarchetypeArtifactId=wildfly-javaee7-webapp-archetype \
     -DarchetypeCatalog=local
 
